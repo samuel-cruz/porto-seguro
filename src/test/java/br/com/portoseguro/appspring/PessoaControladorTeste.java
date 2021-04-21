@@ -233,7 +233,7 @@ public class PessoaControladorTeste extends BaseTeste {
         pessoa.setIdade(25);
         pessoa.setCpf("00006400000");
         pessoa.setEnderecos(Arrays.asList(
-                new Endereco("Rua James Gosling", "1995", "Green Project", "GC"),
+                new Endereco("Rua James Gosling", "1995", "Green Project", "GP"),
                 new Endereco("Avenida Rod Johnson", null, "Spring Framework", "SF")
         ));
 

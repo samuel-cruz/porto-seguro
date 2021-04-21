@@ -11,7 +11,7 @@
 
 # 📝 Objetivo
 
-Back-end de um desafio proposto pela [Meta](https://www.meta.com.br/), para atuação no cliente Porto Seguro, a qual deve atender aos seguintes requisitos:
+Back-end de um desafio proposto pela [Meta](https://www.meta.com.br/), para atuação no cliente Porto Seguro
 
 # 💻 Definição do projeto
 - Crie uma API utilizando Spring Boot, onde será possível criar e buscar informações de uma pessoa com base no seu CPF.
